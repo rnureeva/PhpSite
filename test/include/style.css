@@ -1,0 +1,26 @@
+body{
+    background-image: url("/images/main.jpeg");
+    background-size: cover;
+    background-attachment:fixed;
+}
+
+.image{
+    background-image: url("/images/main1.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#map{
+    height: 100px;
+    width: 100px;
+}
+.p-2{
+    font-size: 25px;
+}
+.btn-primary{
+    background-color: #90909f;
+    border-color: #90907f;
+}
+
+
